@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836903542055",
+    "project_id": "autocall-1245d",
+    "storage_bucket": "autocall-1245d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836903542055:android:e4abede9718e27624e5d02",
+        "android_client_info": {
+          "package_name": "com.app.autocaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836903542055-ftea0004nldcl9hnvnvutmapk7706r8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoneYsPNu55UznsXsAkGRpz4kExbzD8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836903542055-ftea0004nldcl9hnvnvutmapk7706r8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

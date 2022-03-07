@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoCaller</string>
+    <string name="default_notification_channel_id">com.app.autocaller</string>
+</resources>
